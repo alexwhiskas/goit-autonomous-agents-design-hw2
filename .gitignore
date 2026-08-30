@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 .venv/
 chroma_db/
-agent_state.db
 agent_state.db-shm
 agent_state.db-wal
 trajectory.json
